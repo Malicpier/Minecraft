@@ -1,0 +1,47 @@
+.wrapper {
+    display: flex;
+    border: 1px solid #000;
+    height: 95vh;
+    flex-direction: column;
+}
+.header{
+    display: flex;
+    align-items: center;
+    height: 100px;
+}
+.ytub{
+  display:flex ;
+  height: 100%;
+} 
+.menu{
+  background: rgb(255, 255, 255);
+  height: 100%;
+  width: 20%;
+
+}
+.content{
+ background: rgb(255, 255, 255);
+height: 100%;
+width: 80%;
+
+}
+.logon{
+   
+   width: 110px;
+
+
+   }
+
+.search{
+    height: 20px;
+    width: 30%;
+    background: #ffffff; 
+    color: #fff; 
+    padding: 10px; 
+    border-radius: 10px; 
+   }
+
+   
+
+  
+
